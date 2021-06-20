@@ -1,0 +1,12 @@
+name: regina
+title: regina
+username:
+account: ange-stephanie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4156705
+bundleId: 4625450
+url: https://ange-stephanie.shinyapps.io/regina/
+when: 1621622018.53073
+asMultiple: FALSE
+asStatic: FALSE
